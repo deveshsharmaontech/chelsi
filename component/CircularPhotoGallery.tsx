@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Play, Volume2 } from 'lucide-react';
 import img1 from "../src/img1.jpeg";
 import img2 from "../src/img2.jpeg";
-import img3 from "../src/img3.jpeg";
+import img3 from "../src/img1.jpeg";
 import img4 from "../src/img4.jpeg";
 
 interface PhotoData {
