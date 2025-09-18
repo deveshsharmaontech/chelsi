@@ -216,7 +216,7 @@ const AudioButtonsSection = () => {
 
         {/* Quote */}
         <blockquote className="text-center text-2xl md:text-3xl font-serif text-gray-700 font-light leading-relaxed mt-8">
-          "Music is the language of the heart, and these are my words to yours"
+          "Music is the language of the heart, and this is for you"
         </blockquote>
 
         {/* Final Decorative Hearts */}
