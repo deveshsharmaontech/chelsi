@@ -225,7 +225,7 @@ const AudioButtonsSection = () => {
             <Heart 
               key={i} 
               className="w-3 h-3 text-pink-400 fill-current animate-pulse" 
-              style={{ animationDelay: `${i * 0.3}s` }} 
+              style={{ animationDelay:`${i * 0.3}s` }} 
             />
           ))}
         </div>
