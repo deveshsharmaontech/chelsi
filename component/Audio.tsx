@@ -207,7 +207,7 @@ const AudioButtonsSection = () => {
               className="absolute w-4 h-4 text-pink-300 fill-current opacity-30 animate-bounce"
               style={{
                 left: `${(i * 12) + 5}%`,
-                animationDelay: `${i * 0.5}s`,
+                animationDelay: `${i *0.5}s`,
                 animationDuration: '3s'
               }}
             />
