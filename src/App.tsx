@@ -25,6 +25,7 @@ import vid8 from "./vid8.mp4";
 import vid9 from "./vid9.mp4";
 import vid10 from "./vid10.mp4";
 import CircularPhotoGallery from "../component/CircularPhotoGallery"
+import Audio from "../component/Audio"
 
 
 
@@ -600,6 +601,8 @@ function App() {
           </button>
         </div>
       </section>
+
+      <Audio/>
       {/* Second Photo Section - Different Animations */}
       <section className="py-20 px-4 max-w-7xl mx-auto">
         <div className="text-center mb-16">
